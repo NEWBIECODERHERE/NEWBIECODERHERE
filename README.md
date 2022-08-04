@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NEWBIECODERHERE
+- 👋 Hi, I’m a newbie coder!
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning HTML, CSS, & JavaScript.
 - 💞️ I’m looking to collaborate on projects that will help show my current skills and grow as a developer.
